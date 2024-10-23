@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.App {
+  padding: 100px;
+}
+
 :root {
   --main-bg-color: #F6F6F6;
-  --hover-bg-color: #E4F1F7;
-  --active-bg-color: #CAE8FA;
-  --menu-text-color: #282A2B;
+  --hover-bg-color: #CBEAF9;
+  --active-bg-color: #A7DEF8;
+  --menu-text-color: #454545;
   --menu-arrow-color: #b3afb1;
 }
 
